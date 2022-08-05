@@ -25,7 +25,10 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40">
 </p>
 
+<h2>📊 Моя статистика
+</h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pavel-Rogozhkin)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavel-Rogozhkin)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pavel-Rogozhkin&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavel-Rogozhkin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
